@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "  "
+  },
+  "author": "Mystery",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "opusscript": "0.0.6",
+    "superagent": "^5.1.0",
+    "ytdl-core": "^0.29.3"
+  }
+}
